@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fretreemer
-- 👀 I’m interested in fnf program 
-- 🌱 I’m currently learning FNF coding
-- 📫 pls help how to code fnf.
+- 👀 I’m interested in Python program 
+- 🌱 I’m currently learning Python coding
 
 <!---
 Fretreemer/Fretreemer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
